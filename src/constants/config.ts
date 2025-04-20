@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Palanisamy M — Full-Stack Developer Portfolio",
+    fullName: "Palanisamy M",
+    email: "palani8147s@gmail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Palanisamy M",
+    p: ["I develop scalable web applications", "and innovative ML solutions"],
   },
   contact: {
     p: "Get in touch",
@@ -56,7 +56,7 @@ export const config: TConfig = {
         span: "Your Name",
         placeholder: "What's your name?",
       },
-      email: { span: "Your Email", placeholder: "What's your email?" },
+      email: { span: "Your Email", placeholder: "palani8147s@gmail.com" },
       message: {
         span: "Your Message",
         placeholder: "What do you want to say?",
@@ -67,11 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I'm a dynamic full-stack web developer with expertise in React, PHP, SQL, and Python. I specialize in building scalable, user-centric solutions and have experience in machine learning projects like real-time drowsiness detection. My work includes automating institute management systems and enhancing system performance through clean code and innovative solutions. Passionate about solving complex challenges, I collaborate effectively to deliver impactful projects.`,
     },
     experience: {
       p: "What I have done so far",
@@ -84,11 +80,7 @@ export const config: TConfig = {
     works: {
       p: "My work",
       h2: "Projects.",
-      content: `Following projects showcases my skills and experience through
-    real-world examples of my work. Each project is briefly described with
-    links to code repositories and live demos in it. It reflects my
-    ability to solve complex problems, work with different technologies,
-    and manage projects effectively.`,
+      content: `The following projects showcase my skills in full-stack development and machine learning. Each project demonstrates my ability to solve real-world problems using technologies like React, PHP, SQL, Python, and OpenCV, with a focus on performance and user experience.`,
     },
   },
 };
